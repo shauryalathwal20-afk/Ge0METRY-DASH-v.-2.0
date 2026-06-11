@@ -16,4 +16,6 @@ A fast-paced, neon-drenched 2D platformer built in Python using the Pygame-CE en
 
    The above step can be done in the terminal of any runner . But play the game only in the runner where you have istalled this.
 
-   **GOOD LUCK**
+  
+THEN USE THE GEOMETRY DASH.py from this repository to play the game
+**GOOD LUCK**
